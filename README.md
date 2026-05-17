@@ -268,6 +268,5 @@ Total dataset size: 150+ prompts.
 
 # Author
 
-- Student Name
-- Registration Number
-- CSC 262 Lab Final
+- Chaudhary Kashan Ahmed
+
