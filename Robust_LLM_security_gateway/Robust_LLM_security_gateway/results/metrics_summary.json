@@ -1,0 +1,10 @@
+[
+    {
+        "accuracy":0.9,
+        "precision":0.84,
+        "recall":1.0,
+        "f1_score":0.92,
+        "false_positives":18,
+        "false_negatives":0
+    }
+]
